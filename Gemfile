@@ -27,6 +27,9 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Puma as the app server
 gem 'puma'
 
+# Use bootstrap-sass gem
+gem 'bootstrap-sass', '~> 3.3.5'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
