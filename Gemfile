@@ -30,6 +30,9 @@ gem 'puma'
 # Use bootstrap-sass gem
 gem 'bootstrap-sass', '~> 3.3.5'
 
+# Email validation
+gem 'email_validator', '~>1.6.0'
+
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
@@ -45,4 +48,3 @@ group :development do
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
   gem 'spring'
 end
-
