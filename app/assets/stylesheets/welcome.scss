@@ -3,9 +3,12 @@
 // You can use Sass (SCSS) here: http://sass-lang.com/
 .welcome {
   .logo {
-    margin-top: 80px;
+   margin-top: 10%;
 
     img {
+      width: 100%;
+      max-width:500px;
+
       display: block;
       margin: 0 auto;
     }
